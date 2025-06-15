@@ -1,0 +1,17 @@
+# ROS 2 Build
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Maps
+*.pgm
+*.yaml
+
+# Misc
+*.swp
+.vscode/
