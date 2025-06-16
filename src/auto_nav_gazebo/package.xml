@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>auto_nav_gazebo</name>
+  <version>0.0.1</version>
+  <description>Gazebo integration for auto_nav project</description>
+  <maintainer email="ganeshrejeti1@gmail.com">Sai Ganesh</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+  <exec_depend>gazebo_ros</exec_depend>
+</package>
