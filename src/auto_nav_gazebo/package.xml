@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
-<package format="3">
+<package format="2">
   <name>auto_nav_gazebo</name>
-  <version>0.0.1</version>
-  <description>Gazebo integration for auto_nav project</description>
-  <maintainer email="ganeshrejeti1@gmail.com">Sai Ganesh</maintainer>
+  <version>0.0.0</version>
+  <description>Launches Gazebo with custom world</description>
+  <maintainer email="you@example.com">Your Name</maintainer>
   <license>MIT</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
